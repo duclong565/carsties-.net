@@ -1,12 +1,3 @@
-# Microservices Udemy Course repository (2024 version)
-
-The original 2023 version is available [here](https://github.com/TryCatchLearn/carsties)
-
-This is the repository for the Microservices 'Carsties' app created for the Udemy course updated in August 2024
-
-You can see how this app was made by checking out the Udemy course for this [here](https://www.udemy.com/course/build-a-microservices-app-with-dotnet-and-nextjs-from-scratch/?couponCode=NEWCOURSEPROM) (with discount)
-
-You can run this app locally on your computer by following these instructions:
 
 1. Using your terminal or command prompt clone the repo onto your machine in a user folder 
 
